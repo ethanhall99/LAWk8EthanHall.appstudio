@@ -25,6 +25,30 @@
             "dessertVoting",
             "dessertVoting.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "describeYou",
+            "describeYou.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "favExercises",
+            "favExercises.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "mobileNav",
+            "mobileNav.json"
+          ]
         }
       ],
       "configxml": null,
@@ -46,6 +70,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
+      "firstform": "describeYou",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
