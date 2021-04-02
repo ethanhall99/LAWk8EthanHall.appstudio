@@ -25,6 +25,22 @@
             "dessertVoting",
             "dessertVoting.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "describeYou",
+            "describeYou.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "favExercises",
+            "favExercises.json"
+          ]
         }
       ],
       "configxml": null,
